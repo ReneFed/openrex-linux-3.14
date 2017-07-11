@@ -184,6 +184,7 @@ dtb-$(CONFIG_ARCH_MXC) += \
 	imx6qp-sabresd-hdcp.dtb \
 	imx6q-sabrelite.dtb \
 	imx6q-sabresd.dtb \
+	imx6q-openrex.dtb \
 	imx6q-sabresd-btwifi.dtb \
 	imx6q-sabresd-enetirq.dtb \
 	imx6q-sabresd-ldo.dtb \
